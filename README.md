@@ -1,5 +1,6 @@
 
 # 🩺 Clinical Predictions using Machine Learning
+![image alt]()
 
 A machine learning pipeline built to predict clinical outcomes from structured patient data. The project uses preprocessing, model training, and prediction generation for evaluating real-world clinical test datasets.
 #   📁 Project Structure
