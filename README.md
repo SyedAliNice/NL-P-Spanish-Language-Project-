@@ -1,6 +1,6 @@
 
 # 🩺 Clinical Predictions using Machine Learning
-![image alt]()
+![image alt](https://github.com/SyedAliNice/NL-P-Spanish-Language-Project-/blob/432d55662b0ddd9369f855504f9443022dff318b/a-digital-illustration-of-a-futuristic-m_uUwvvFsFSuy4FRWi5Ak9Dg_7GNUXCnfS8GT-p7ItxDukw-fotor-20250407134050.jpg)
 
 A machine learning pipeline built to predict clinical outcomes from structured patient data. The project uses preprocessing, model training, and prediction generation for evaluating real-world clinical test datasets.
 #   📁 Project Structure
